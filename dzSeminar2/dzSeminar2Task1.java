@@ -23,3 +23,4 @@ public class dzSeminar2Task1 {
         System.out.println("Введенное пользователем число: " + userInput);
     }
 }
+

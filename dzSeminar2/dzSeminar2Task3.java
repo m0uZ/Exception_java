@@ -42,3 +42,4 @@ public class dzSeminar2Task3 {
         System.out.println(a + b);
     }
 }
+
